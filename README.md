@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maniamartial
-- 👀 I’m interested in Bacend development
+- 👀 I’m interested in Backend development
 - 🌱 I’m currently learning ...Django python
 - 💞️ I’m looking to collaborate on ..various intergration of AI projects on websites
 - 📫 How to reach me ...josephmania19@students.ku.ac.ke
