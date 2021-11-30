@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maniamartial
-- 👀 I’m interested in Backend development
-- 🌱 I’m currently learning ...Django python
-- 💞️ I’m looking to collaborate on ..various intergration of AI projects on websites
+- 👀 I’m interested in Backend development-Django is bae
+- 🌱 I’m currently learning ...PHP
+- 💞️ I’m looking to collaborate on ..various intergration of AI projects on django websites
 - 📫 How to reach me ...josephmania19@students.ku.ac.ke
-- 🐱‍ In love to understand how SEX is the source of all the problems🤣🤣
+- 🐱‍ In love to understand how SEX is the source of all the problems in teh society🤣🤣
