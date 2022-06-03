@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning REACT.JS
 - 💞️ I’m looking to collaborate on ..various intergration of AI projects on django websites
 - 📫 How to reach me ...josephmania19@students.ku.ac.ke
-- 🐱‍ Life=Money+Sex, dont get me wrong, think like a programmer🤣🤣
+- 🐱‍ Think like a programmer🤣🤣
