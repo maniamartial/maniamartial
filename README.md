@@ -4,3 +4,4 @@
 - 💞️ I’m looking to collaborate on ..various intergration of AI projects on django websites
 - 📫 How to reach me ...josephmania19@students.ku.ac.ke
 - 🐱‍ Think like a programmer🤣🤣
+- 🤳Tools - Docker, Javascript, Java, Python, CSS, HTML, Agile methodology, Django, React
