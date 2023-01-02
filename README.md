@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maniamartial
 - 👀 I’m interested in Backend development-Django is bae, Node can also serve
-- 🌱 I’m currently learning solidity
+- 🌱 I’m currently learning datastructure and algorithms
 - 💞️ I’m looking to collaborate on ..various intergration of AI projects on django websites
 - 📫 How to reach me ...josephmania19@students.ku.ac.ke
 - 🐱‍ Think like a programmer🤣🤣
