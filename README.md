@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maniamartial
 - 👀 I’m interested in Backend development-Django is bae, Node can also serve
-- 🌱 I’m currently working on final year project
-- 💞️ I’m looking to collaborate on ..various intergration of AI projects on django websites
+- 🌱 I’m currently working on frappe
+- 💞️ I’m looking to collaborate on ..various integration of AI projects on Django websites
 - 📫 How to reach me ...josephmania19@students.ku.ac.ke
 - 🐱‍ Think like a programmer🤣🤣
-- 🤳Tools - Docker, Javascript, Java, Python, CSS, HTML,Nodejs, Express,MongoDb Agile methodology, Django, React
+- 🤳Tools - Docker, Javascript, Java, Python, CSS, HTML, Nodejs, Express,MongoDB Agile methodology, Django, React
